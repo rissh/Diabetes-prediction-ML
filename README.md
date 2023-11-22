@@ -11,8 +11,6 @@ Welcome to the Diabetes Prediction Project! This project focuses on building a m
 ## Project Structure
 
 - `notebooks/`: Jupyter notebooks containing the project code.
-- `data/`: Dataset used for training and testing.
-- `images/`: Visualizations and plots generated during the project.
 
 ## Getting Started
 
@@ -38,7 +36,6 @@ Welcome to the Diabetes Prediction Project! This project focuses on building a m
 
 Explore various visualizations in the `images/` directory, showcasing the dataset's characteristics and model performance.
 
-![Distribution of Glucose by Outcome](images/glucose_distribution.png)
 
 ## Next Steps
 
@@ -49,4 +46,9 @@ Explore various visualizations in the `images/` directory, showcasing the datase
 
 - The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 - Special thanks to the open-source community for their valuable contributions.
+
+## Author
+
+- [LinkedIn](https://www.linkedin.com/in/rishikesh-jagadale-331812207/)
+- [Github](https://github.com/rissh)
 
