@@ -8,19 +8,6 @@ Welcome to the Diabetes Prediction Project! This project focuses on building a m
 - **Programming Language:** Python
 - **Libraries Used:** scikit-learn, seaborn, matplotlib, pandas
 
-
-## Getting Started
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/diabetes-prediction-project.git
-    ```
-
-## Visualizations
-
-Explore various visualizations in the `images/` directory, showcasing the dataset's characteristics and model performance.
-
-
 ## Next Steps
 
 - **Model Deployment:** If applicable, consider deploying the trained model for practical use.
