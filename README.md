@@ -8,9 +8,6 @@ Welcome to the Diabetes Prediction Project! This project focuses on building a m
 - **Programming Language:** Python
 - **Libraries Used:** scikit-learn, seaborn, matplotlib, pandas
 
-## Project Structure
-
-- `notebooks/`: Jupyter notebooks containing the project code.
 
 ## Getting Started
 
@@ -18,19 +15,6 @@ Welcome to the Diabetes Prediction Project! This project focuses on building a m
     ```bash
     git clone https://github.com/yourusername/diabetes-prediction-project.git
     ```
-
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Explore the Notebooks:**
-    - Start with `Exploratory_Data_Analysis.ipynb` for an in-depth analysis.
-    - Move on to `Model_Training_and_Evaluation.ipynb` to see the model development process.
-
-4. **Run the Notebooks:**
-    - Open the notebooks using Jupyter or any compatible environment.
-    - Execute the cells to reproduce the analysis and model training.
 
 ## Visualizations
 
