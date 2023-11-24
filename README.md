@@ -1,5 +1,8 @@
 # Diabetes Prediction Project
 
+![image](http://surl.li/nnaru)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Welcome to the Diabetes Prediction Project! This project focuses on building a machine learning model to predict the likelihood of an individual having diabetes based on various health-related features. Early detection of diabetes is crucial for effective management and improved health outcomes.
 
 ## Overview
